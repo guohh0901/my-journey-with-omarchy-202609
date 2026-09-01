@@ -13,6 +13,7 @@
 | [`hyprland-fix/`](./hyprland-fix/) | Hyprland 菜单触发黑屏的修复方案 |
 | [`pacman-update/`](./pacman-update/) | pacman 镜像源配置与系统更新工作流 |
 | [`waydroid-wxwork/`](./waydroid-wxwork/) | 在 Omarchy 上通过 Waydroid 运行企业微信（主文） |
+| [`agent-usage/`](./agent-usage/) | Omarchy 顶部状态栏 AI Agent 面板集成 Antigravity 实时配额与自动化更新 |
 
 ## 说明
 
