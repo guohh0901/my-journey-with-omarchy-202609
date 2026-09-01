@@ -1,0 +1,17 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Obsidian (user-specific)
+.obsidian/
+
+# Large binaries
+*.apk
+*.iso
+*.img
+
+# Logs / temp
+*.log
+*.tmp
