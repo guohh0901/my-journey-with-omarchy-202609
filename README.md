@@ -14,6 +14,7 @@
 | [`pacman-update/`](./pacman-update/) | pacman 镜像源配置与系统更新工作流 |
 | [`waydroid-wxwork/`](./waydroid-wxwork/) | 在 Omarchy 上通过 Waydroid 运行企业微信（主文） |
 | [`agent-usage/`](./agent-usage/) | Omarchy 顶部状态栏 AI Agent 面板集成 Antigravity 实时配额与自动化更新 |
+| [`cpu-fan-overheat-fix/`](./cpu-fan-overheat-fix/) | 笔记本风扇狂转与持续高温排查：定位并修复 mise 包装脚本无限递归死循环与电源策略 |
 
 ## 说明
 
